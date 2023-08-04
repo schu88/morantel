@@ -13,4 +13,4 @@ This file contains the code for both the PBC corrections and the concatenation o
 We use this file to create the proper prep files that are necessary for the concatenation of the trajectory files (which we do with barb.bash). The easiest way to make edits to the code is through the vi editor within a terminal. 
 <br>Run this file in the terminal while you are logged into Apple Pie by typing: python3 prepfiles.py
 <br>NOTE: Run this file before you run barb.bash!
-<be>ANOTHER NOTE: You need to have Python 3 installed on your computer to run this file. 
+<br>ANOTHER NOTE: You need to have Python 3 installed on your computer to run this file. 
